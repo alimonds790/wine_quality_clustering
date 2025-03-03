@@ -39,5 +39,5 @@ Explore different scaling methods like MinMaxScaler and see how they impact resu
 ## Guide:
 
 1. Download repo
-2. Install any requirments from the '.requirements' file that you might have missing or not up to date
+2. Install any requirments from the 'requirements.txt' file that you might have missing or not up to date
 3. Run notebook
