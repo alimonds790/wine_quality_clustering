@@ -5,9 +5,8 @@ Wine quality is influenced by chemical properties such as acidity, sulfur dioxid
 So in this Project, I used clustering to group wines into quality levels based on their chemical composition using:  
 1. K-means 
 2. Hierarchical clustering  
-  
 and compared their performance and the resulting clusters.
-
+   
 **Findings:**
 
 Both K-Means and Hierarchical Clustering were applied to the Wine dataset.  
@@ -26,4 +25,11 @@ Hierarchical Clustering can be computationally expensive for larger datasets
 
 Experimenting with different clustering methods.  
 Perform feature selection or dimensionality reduction like PCA before clustering.    
-Explore different scaling methods like MinMaxScaler and see how they impact results      
+Explore different scaling methods like MinMaxScaler and see how they impact results     
+
+
+## Guide:
+
+1. Download repo
+2. Install any requirments from the '.requirements' file that you might have missing or not up to date
+3. Run notebook
