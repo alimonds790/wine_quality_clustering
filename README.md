@@ -6,7 +6,15 @@ So in this Project, I used clustering to group wines into quality levels based o
 1. K-means 
 2. Hierarchical clustering  
 and compared their performance and the resulting clusters.
-   
+
+
+## Data Source: UCI ML repos  
+Link: https://archive.ics.uci.edu/dataset/186/wine+quality  
+no. of features: 11  
+Feature types: All numeric (contineous) refers to different element concentrations in the wine.  
+no. of instances:  6497
+
+
 **Findings:**
 
 Both K-Means and Hierarchical Clustering were applied to the Wine dataset.  
